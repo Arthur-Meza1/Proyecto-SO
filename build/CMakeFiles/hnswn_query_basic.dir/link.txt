@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/hnswn_query_basic.dir/src/hnsw_query_basic.cpp.o -o hnswn_query_basic 

@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/hnswn_build_basic.dir/src/hnswn_build_basic.cpp.o -o hnswn_build_basic 

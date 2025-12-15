@@ -1,0 +1,12 @@
+metric,value
+queries,82326
+dimension,768
+k,10
+efSearch,100
+total_time_s,95.7231
+qps,860.043
+avg_latency_ms,1.16204
+p50_ms,1.05083
+p95_ms,2.23917
+p99_ms,3.0762
+peak_rss_mb,2465

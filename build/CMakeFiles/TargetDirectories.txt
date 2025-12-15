@@ -1,0 +1,6 @@
+/home/arthur-max/Documentos/SO/Proyecto/build/CMakeFiles/hnsw_build_optimized.dir
+/home/arthur-max/Documentos/SO/Proyecto/build/CMakeFiles/hnsw_query_optimized.dir
+/home/arthur-max/Documentos/SO/Proyecto/build/CMakeFiles/hnswn_build_basic.dir
+/home/arthur-max/Documentos/SO/Proyecto/build/CMakeFiles/hnswn_query_basic.dir
+/home/arthur-max/Documentos/SO/Proyecto/build/CMakeFiles/edit_cache.dir
+/home/arthur-max/Documentos/SO/Proyecto/build/CMakeFiles/rebuild_cache.dir

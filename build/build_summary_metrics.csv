@@ -1,0 +1,8 @@
+metric,value
+elements,676193
+dimension,768
+M,32
+efConstruction,200
+build_time_s,1088.6
+throughput_vectors_per_s,621.158
+peak_rss_mb,4208

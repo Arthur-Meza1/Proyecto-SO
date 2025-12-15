@@ -1,0 +1,12 @@
+parameter,value
+vectors,676193
+dimension,768
+M,32
+efConstruction,200
+space_type,ip
+load_time_s,5.07496
+preprocess_time_s,0.22444
+build_time_s,1194.66
+total_time_s,1199.96
+throughput_vec_s,566.013
+vectors_per_hour,2.03765e+06
