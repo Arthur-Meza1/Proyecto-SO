@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/arthur-max/Documentos/SO/Proyecto/src/query_optimized.cpp" "CMakeFiles/hnsw_query_optimized.dir/src/query_optimized.cpp.o" "gcc" "CMakeFiles/hnsw_query_optimized.dir/src/query_optimized.cpp.o.d"
+  "/home/arthur-max/Documentos/SO/TIF_SO/src/query_optimized.cpp" "CMakeFiles/hnsw_query_optimized.dir/src/query_optimized.cpp.o" "gcc" "CMakeFiles/hnsw_query_optimized.dir/src/query_optimized.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

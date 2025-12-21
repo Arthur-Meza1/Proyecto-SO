@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/arthur-max/Documentos/SO/Proyecto/includes -I/home/arthur-max/Documentos/SO/Proyecto/external/hnswlib/hnswlib
+CXX_INCLUDES = -I/home/arthur-max/Documentos/SO/TIF_SO/includes -I/home/arthur-max/Documentos/SO/TIF_SO/external/hnswlib/hnswlib
 
 CXX_FLAGS = -O3 -DNDEBUG -std=gnu++17 -O3 -march=native -DNDEBUG -fopenmp
 

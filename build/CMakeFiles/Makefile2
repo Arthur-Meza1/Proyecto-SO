@@ -54,10 +54,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/arthur-max/Documentos/SO/Proyecto
+CMAKE_SOURCE_DIR = /home/arthur-max/Documentos/SO/TIF_SO
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/arthur-max/Documentos/SO/Proyecto/build
+CMAKE_BINARY_DIR = /home/arthur-max/Documentos/SO/TIF_SO/build
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -87,14 +87,14 @@ clean: CMakeFiles/hnswn_query_basic.dir/clean
 CMakeFiles/hnsw_build_optimized.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/hnsw_build_optimized.dir/build.make CMakeFiles/hnsw_build_optimized.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/hnsw_build_optimized.dir/build.make CMakeFiles/hnsw_build_optimized.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/arthur-max/Documentos/SO/Proyecto/build/CMakeFiles --progress-num=1,2 "Built target hnsw_build_optimized"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/arthur-max/Documentos/SO/TIF_SO/build/CMakeFiles --progress-num=1,2 "Built target hnsw_build_optimized"
 .PHONY : CMakeFiles/hnsw_build_optimized.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/hnsw_build_optimized.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/arthur-max/Documentos/SO/Proyecto/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/arthur-max/Documentos/SO/TIF_SO/build/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/hnsw_build_optimized.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/arthur-max/Documentos/SO/Proyecto/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/arthur-max/Documentos/SO/TIF_SO/build/CMakeFiles 0
 .PHONY : CMakeFiles/hnsw_build_optimized.dir/rule
 
 # Convenience name for target.
@@ -113,14 +113,14 @@ CMakeFiles/hnsw_build_optimized.dir/clean:
 CMakeFiles/hnsw_query_optimized.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/hnsw_query_optimized.dir/build.make CMakeFiles/hnsw_query_optimized.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/hnsw_query_optimized.dir/build.make CMakeFiles/hnsw_query_optimized.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/arthur-max/Documentos/SO/Proyecto/build/CMakeFiles --progress-num=3,4 "Built target hnsw_query_optimized"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/arthur-max/Documentos/SO/TIF_SO/build/CMakeFiles --progress-num=3,4 "Built target hnsw_query_optimized"
 .PHONY : CMakeFiles/hnsw_query_optimized.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/hnsw_query_optimized.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/arthur-max/Documentos/SO/Proyecto/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/arthur-max/Documentos/SO/TIF_SO/build/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/hnsw_query_optimized.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/arthur-max/Documentos/SO/Proyecto/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/arthur-max/Documentos/SO/TIF_SO/build/CMakeFiles 0
 .PHONY : CMakeFiles/hnsw_query_optimized.dir/rule
 
 # Convenience name for target.
@@ -139,14 +139,14 @@ CMakeFiles/hnsw_query_optimized.dir/clean:
 CMakeFiles/hnswn_build_basic.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/hnswn_build_basic.dir/build.make CMakeFiles/hnswn_build_basic.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/hnswn_build_basic.dir/build.make CMakeFiles/hnswn_build_basic.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/arthur-max/Documentos/SO/Proyecto/build/CMakeFiles --progress-num=5,6 "Built target hnswn_build_basic"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/arthur-max/Documentos/SO/TIF_SO/build/CMakeFiles --progress-num=5,6 "Built target hnswn_build_basic"
 .PHONY : CMakeFiles/hnswn_build_basic.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/hnswn_build_basic.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/arthur-max/Documentos/SO/Proyecto/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/arthur-max/Documentos/SO/TIF_SO/build/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/hnswn_build_basic.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/arthur-max/Documentos/SO/Proyecto/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/arthur-max/Documentos/SO/TIF_SO/build/CMakeFiles 0
 .PHONY : CMakeFiles/hnswn_build_basic.dir/rule
 
 # Convenience name for target.
@@ -165,14 +165,14 @@ CMakeFiles/hnswn_build_basic.dir/clean:
 CMakeFiles/hnswn_query_basic.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/hnswn_query_basic.dir/build.make CMakeFiles/hnswn_query_basic.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/hnswn_query_basic.dir/build.make CMakeFiles/hnswn_query_basic.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/arthur-max/Documentos/SO/Proyecto/build/CMakeFiles --progress-num=7,8 "Built target hnswn_query_basic"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/arthur-max/Documentos/SO/TIF_SO/build/CMakeFiles --progress-num=7,8 "Built target hnswn_query_basic"
 .PHONY : CMakeFiles/hnswn_query_basic.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/hnswn_query_basic.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/arthur-max/Documentos/SO/Proyecto/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/arthur-max/Documentos/SO/TIF_SO/build/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/hnswn_query_basic.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/arthur-max/Documentos/SO/Proyecto/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/arthur-max/Documentos/SO/TIF_SO/build/CMakeFiles 0
 .PHONY : CMakeFiles/hnswn_query_basic.dir/rule
 
 # Convenience name for target.

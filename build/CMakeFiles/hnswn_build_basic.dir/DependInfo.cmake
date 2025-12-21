@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/arthur-max/Documentos/SO/Proyecto/src/hnswn_build_basic.cpp" "CMakeFiles/hnswn_build_basic.dir/src/hnswn_build_basic.cpp.o" "gcc" "CMakeFiles/hnswn_build_basic.dir/src/hnswn_build_basic.cpp.o.d"
+  "/home/arthur-max/Documentos/SO/TIF_SO/src/hnswn_build_basic.cpp" "CMakeFiles/hnswn_build_basic.dir/src/hnswn_build_basic.cpp.o" "gcc" "CMakeFiles/hnswn_build_basic.dir/src/hnswn_build_basic.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

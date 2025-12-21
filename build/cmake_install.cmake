@@ -1,4 +1,4 @@
-# Install script for directory: /home/arthur-max/Documentos/SO/Proyecto
+# Install script for directory: /home/arthur-max/Documentos/SO/TIF_SO
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/arthur-max/Documentos/SO/Proyecto/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/arthur-max/Documentos/SO/TIF_SO/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
